@@ -1,5 +1,8 @@
 # MauiCreditCardView
 
+![MauiCreditCardView](https://github.com/user-attachments/assets/51ab7a36-6cff-42a9-935f-71b033c6cb61)
+
+
 **A modern, user-friendly credit card input control for .NET MAUI mobile applications**
 
 MauiCreditCardView is a customizable .NET MAUI control for credit card input. It features real-time formatting, dynamic card type detection, and instant visual validation, providing a clean and user-friendly experience for mobile applications.
